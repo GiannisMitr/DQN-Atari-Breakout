@@ -8,7 +8,7 @@ A Deep Q Network that implements an approximate q-learning algorithm with experi
                     
 Developed on TensorFlow using OpenAI Gym for the Atari environment,
                     as part of the [Practical
-                        Reinforcement Learning](https://www.coursera.org/learn/practical-rl).
+                        Reinforcement Learning](https://www.coursera.org/learn/practical-rl) course on Coursera.
                         
                         
                
