@@ -2,7 +2,7 @@
 A Deep Q Network that implements an approximate q-learning algorithm with experience replay and
                     target networks.
                     
-   ![atari_gif](https://giannism.com/images/gif/dqn_atari.gif)
+   ![atari_gif](https://gmitropoulos.com/images/gif/dqn_atari.gif)
                     
                     
                     
